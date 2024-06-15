@@ -1,0 +1,4 @@
+[28/May/2024 10:01:53] INFO [root.<module>:42] Memory 33.3 used.
+[28/May/2024 10:01:53] INFO [root.<module>:43] CPU 10.9 used.
+[28/May/2024 10:01:53] INFO [root.<module>:56] Disk:/dev/nvme0n1p2 Free:51.00
+[28/May/2024 10:01:53] INFO [root.<module>:56] Disk:/dev/nvme0n1p1 Free:90.00
