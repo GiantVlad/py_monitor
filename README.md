@@ -16,3 +16,5 @@ Add this line to the cron to run script every 15 minutes
 sudo crontab -e
 ``` 
 5-59/15 * * * * python3 /var/app/py_monitor.py >> /var/log/cron.log 2>&1
+
+A Mailgun account is required.
